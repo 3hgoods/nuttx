@@ -1,6 +1,8 @@
 
 ```
 - https://embetronicx.com/tutorials/rtos/nuttx/
+- 컴파일러 https://igotit.tistory.com/entry/ESP32-Toolchain-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-%EC%84%A4%EC%B9%98-Ubuntu
+
 
 
 
